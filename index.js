@@ -12,6 +12,6 @@ Try to write that 1-liner of React code again! This time,
 see if you can figure out how to render an <ul> with 2+ <li>s inside
 */ 
 ReactDOM.render(
-    <ul><li>Thing 1</li><li>Thing 2</li></ul>, 
+    <ul><li>Thing 1</li><li>hi</li></ul>, 
     document.getElementById("root")
 )
